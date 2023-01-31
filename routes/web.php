@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\CsapatController;
+use App\Http\Controllers\JatekosController;
 
 /*
 |--------------------------------------------------------------------------
